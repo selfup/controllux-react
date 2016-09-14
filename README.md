@@ -1,6 +1,6 @@
 # Controllux-React
 
-Modified version of controllux below 
+Modified version of Controllux below! 
 
 ```javascript
 const Immutable = require('immutable')
